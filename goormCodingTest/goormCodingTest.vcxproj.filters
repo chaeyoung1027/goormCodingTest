@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-1_369ClapNum.c">
+    <ClCompile Include="1-2_ReverseArrenge.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
