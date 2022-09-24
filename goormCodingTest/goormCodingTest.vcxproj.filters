@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-5_EngSub.c">
+    <ClCompile Include="1-6_PanLindrome.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
