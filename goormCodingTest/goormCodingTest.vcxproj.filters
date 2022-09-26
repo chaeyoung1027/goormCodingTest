@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-7_DuplicateCharacters.c">
+    <ClCompile Include="BelowTAverage.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
