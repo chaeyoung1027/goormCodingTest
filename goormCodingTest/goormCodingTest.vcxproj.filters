@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-9_T-shirts.c">
+    <ClCompile Include="1-10_shopVip.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
