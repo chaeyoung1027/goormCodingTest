@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-01_MaxGlove.c">
+    <ClCompile Include="2-02_GetMoreGrainage.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
