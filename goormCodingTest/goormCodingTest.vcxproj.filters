@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-03_EvenSumOfTheSquares.c">
+    <ClCompile Include="2-04_ArrangeLeastFiveCha.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
