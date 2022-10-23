@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ElevatorTravelDistance.c">
+    <ClCompile Include="2-06_ElevatorTravelDistance.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
