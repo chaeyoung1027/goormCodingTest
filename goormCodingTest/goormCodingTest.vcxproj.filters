@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FindingTheNumberMinerCounts.c">
+    <ClCompile Include="2-08_FindingTheNumberMinerCounts.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
