@@ -2,7 +2,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-
 int solution(int votes[], int votes_len, int N, int K) {
     int counter[11] = { 0 };
     for (int i = 0; i < votes_len; ++i)
@@ -20,6 +19,5 @@ int main() {
     int N = 5;
     int K = 2;
     int ret = solution(votes, votes_len, N, K);
-
     printf("solution 함수의 반환 값은 %d 입니다.\n", ret);
 }
