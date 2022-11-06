@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Student%27s Rank.c">
+    <ClCompile Include="3-01_Student%27s Rank.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
