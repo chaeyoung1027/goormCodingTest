@@ -18,5 +18,8 @@
     <ClCompile Include="3-03_Finding a Gymnast%27s Score.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3-04_Typing corrections for correction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

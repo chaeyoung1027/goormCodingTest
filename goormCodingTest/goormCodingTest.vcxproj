@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3-03_Finding a Gymnast%27s Score.c" />
+    <ClCompile Include="3-04_Typing corrections for correction.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
