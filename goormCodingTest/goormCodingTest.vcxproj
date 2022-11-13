@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-05_Saving Travelers%27 Total Transportation Costs.c" />
+    <ClCompile Include="3-06_Find out how to get different colors.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
