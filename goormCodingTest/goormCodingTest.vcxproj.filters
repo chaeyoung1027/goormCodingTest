@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-06_Find out how to get different colors.c">
+    <ClCompile Include="3-07_Making juice with leftover ingredients.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
