@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-09_How many car.c">
+    <ClCompile Include="3-10_amount.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
